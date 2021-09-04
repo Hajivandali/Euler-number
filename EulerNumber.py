@@ -1,6 +1,6 @@
 """
 Solve Nepper number with functional programming
-Language = python 3.9
+python 3.9
 
 Run the program:
     Power function
@@ -8,17 +8,8 @@ Run the program:
     Nepper main function
 
 ** (math) Math import is laid out just for comparison with my code **
-v = 1.0.0
+
 """
-
-
-def square(n):
-    r = n**2
-    return r
-
-
-def cube(n):
-    return square(n)*n
 
 
 def nepper(x=1, y=18):
